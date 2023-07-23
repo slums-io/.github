@@ -1,5 +1,5 @@
 # Slums.io
 
 - graph visualization of your cluster
-- resources and limits settings and tips about your cluster
+- resources and limits tips about your resources
 - expire resources
